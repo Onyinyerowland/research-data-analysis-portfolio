@@ -37,7 +37,7 @@ A quantitative research project examining relationships between internal migrati
 
 **Key insight:** The analysis identified differences in academic performance and social support between migrant and non-migrant students.
 
-[View Project Summary](./capstone-research/README.md)
+[View Project Summary](capstone-research/README.md)
 
 ## Areas of Interest
 
