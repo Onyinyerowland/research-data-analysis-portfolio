@@ -22,7 +22,7 @@ A reproducible R analysis workflow using a synthetic dataset to demonstrate data
 
 - [View the HTML Report](r-analysis-portfolio-demo--1-.html)
 - [View the R Markdown Source Code](capstone-research/r-analysis-portfolio-demo.Rmd)
-- - [View the Project README and Chart](https://github.com/Onyinyerowland/research-data-analysis-portfolio/blob/main/capstone-research/README-r-analysis-portfolio-demo.md)
+-  [View the Project README and Chart](https://github.com/Onyinyerowland/research-data-analysis-portfolio/blob/main/capstone-research/README-r-analysis-portfolio-demo.md)
 
 **Data transparency:** This is a demonstration project using synthetic data. It does not report findings from real participants or an actual study.
 
