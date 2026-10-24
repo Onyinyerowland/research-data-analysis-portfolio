@@ -13,7 +13,7 @@ The data are synthetic and created for demonstration only. The output is not a r
 ## Run it
 
 1. Open the `.Rmd` file in RStudio.
-2. Install any missing packages: `tidyverse`, `janitor`, `effectsize`, `car`, and `rmarkdown`.
+2. Install any missing packages: `tidyverse`, `janitor`, `effectsize`, and `rmarkdown`.
 3. Select **Knit** to render the HTML report.
 
 ## Skills demonstrated
