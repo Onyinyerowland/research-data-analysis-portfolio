@@ -8,7 +8,7 @@ The data are synthetic and created for demonstration only. The output is not a r
 
 ## Files
 
-- `r-analysis-portfolio-demo.Rmd` — self-contained analysis source.
+- - [r-analysis-portfolio-demo.Rmd](r-analysis-portfolio-demo.Rmd) — self-contained analysis source.
 
 ## Run it
 
