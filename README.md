@@ -20,7 +20,7 @@ The dataset is synthetic and created for demonstration purposes only. The findin
 
 The chart below is generated from synthetic data and is included to demonstrate data visualisation in R.
 
-![R analysis chart](./r-analysis-chart.png)
+![R analysis chart](r-analysis-chart.png.png)
 
 
 ## Analysis Workflow
