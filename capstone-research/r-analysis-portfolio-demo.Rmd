@@ -4,7 +4,14 @@ author: "Onyinyechukwu Rowland Olebunne"
 date: "2026-10-24"
 output: html_document
 ---
+## How to Run This Project
 
+1. Install R and RStudio.
+2. Install the required packages: `tidyverse`, `janitor`, and `effectsize`.
+3. Open this R Markdown file in RStudio.
+4. Run the code chunks or click **Knit** to generate the report.
+
+**Data note:** This project uses simulated data for demonstration. The results do not represent actual student records or real research findings.
 ## Purpose and data notice
 
 This is a portfolio demonstration of an R analysis workflow. It uses **fully synthetic data generated in this file**. It does not contain the original capstone dataset, student records, original report findings, or institutional attribution. The example is illustrative; results must not be interpreted as evidence about real students or schools.
