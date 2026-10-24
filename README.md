@@ -1,26 +1,57 @@
-# research-data-analysis-portfolio
-Research projects, R programming, statistical analysis and data-driven insights.
+# R Data Analysis Portfolio Demonstration
 
-## Featured Projects
+## Project Overview
 
-### 1. Academic Outcomes, Internal Migration and Social Support
+This project demonstrates a reproducible data analysis workflow in R using a synthetic dataset generated within the R Markdown file. It showcases data preparation, data validation, statistical analysis, visualisation, and reporting.
 
-A quantitative research project examining relationships between internal migration, social support, sense of belonging, mental health indicators and academic performance among secondary school students in Abuja, Nigeria.
+**Purpose:** To demonstrate practical R programming and statistical analysis skills relevant to research, public health, and evidence-informed decision-making.
 
-**Methods:** Descriptive statistics, Welch two-sample t-tests, Pearson chi-square tests and correlation analysis using R.
+## Important Data Note
 
-**Key insight:** The analysis identified differences in academic performance and social support between migrant and non-migrant students.
+The dataset is synthetic and created for demonstration purposes only. The findings do not represent real student records or real-world outcomes. This demonstration does not contain the original capstone dataset or report.
 
-[View R Analysis and Project Summary](capstone-research/README-r-analysis-portfolio-demo.md)
+## View the Report
 
-## Areas of Interest
+- [View the rendered HTML report](https://onyinyerowland.github.io/research-data-analysis-portfolio/r-analysis-portfolio-demo--1-.html)
+- [View the R Markdown source file](https://github.com/Onyinyerowland/research-data-analysis-portfolio/blob/main/capstone-research/r-analysis-portfolio-demo.Rmd)
 
-- Public health research
-- Epidemiology and biostatistics
-- R programming and statistical analysis
-- Data visualization and interpretation
-- Healthcare operations and quality management
+## Analysis Workflow
 
-## Future Projects
+The project demonstrates:
 
-Additional research and data-analysis projects will be added as they are completed and approved for sharing.
+1. Data creation, inspection, cleaning, and merging
+2. Validation checks for unique identifiers and missing values
+3. Descriptive statistics and grouped summaries
+4. Data visualisation using `ggplot2`
+5. Welch's t-test and Cohen's d effect size
+6. Chi-square test of association
+7. Spearman correlation analysis
+8. Reproducible reporting with R Markdown
+
+## Tools and Packages
+
+- R and RStudio
+- `tidyverse`
+- `janitor`
+- `effectsize`
+- `rmarkdown`
+
+## How to Reproduce the Analysis
+
+1. Download the `.Rmd` source file.
+2. Open it in RStudio.
+3. Install any missing packages listed above.
+4. Click **Knit** to generate the HTML report.
+
+## Skills Demonstrated
+
+- Data cleaning and preparation
+- Data merging and validation
+- Descriptive and inferential statistics
+- Statistical interpretation and effect sizes
+- Data visualisation
+- Reproducible research workflows
+
+---
+
+*This is a portfolio demonstration using synthetic data. It is intended to showcase analytical methods and reproducible coding practices, not to report findings from an actual study.*
