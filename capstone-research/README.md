@@ -46,3 +46,5 @@ A quantitative research project examining relationships between internal migrati
 - R programming and statistical analysis
 - Data visualization and interpretation
 - Healthcare operations and quality management
+
+- [View the R analysis code](r-analysis-portfolio-demo.Rmd)
