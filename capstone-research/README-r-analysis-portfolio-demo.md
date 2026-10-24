@@ -1,3 +1,13 @@
+
+## Sample Visualisation
+
+The chart below was generated from synthetic data to demonstrate data visualisation in R.
+
+![R analysis chart](./r-analysis-chart.png)
+
+---
+
+
 # R Data Analysis Portfolio Demonstration
 
 This project demonstrates an R workflow using synthetic data generated inside the R Markdown file. It showcases data preparation, merging, validation, descriptive statistics, visualisation, group comparisons, effect sizes, categorical association tests, and correlation analysis.
@@ -8,7 +18,7 @@ The data are synthetic and created for demonstration only. The output is not a r
 
 ## Files
 
-- - [r-analysis-portfolio-demo.Rmd](r-analysis-portfolio-demo.Rmd) — self-contained analysis source.
+- [r-analysis-portfolio-demo.Rmd](r-analysis-portfolio-demo.Rmd) — self-contained analysis source.
 
 ## Run it
 
