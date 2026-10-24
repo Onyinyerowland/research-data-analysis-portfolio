@@ -1,65 +1,37 @@
-# R Data Analysis Portfolio Demonstration
+# Research Data Analysis Portfolio
 
-## Project Overview
+**Healthcare Professional | Public Health Research | Data Analysis with R**
 
-This project demonstrates a reproducible data analysis workflow in R using a synthetic dataset generated within the R Markdown file. It showcases data preparation, data validation, statistical analysis, visualisation, and reporting.
+Welcome to my research and data analysis portfolio. I am a healthcare professional with experience in laboratory management, healthcare operations, quality management, and evidence-informed decision-making. I am developing and applying my skills in public health research, statistical analysis, and data visualisation to communicate meaningful insights from data.
 
-**Purpose:** To demonstrate practical R programming and statistical analysis skills relevant to research, public health, and evidence-informed decision-making.
+## Areas of Interest
 
-## Important Data Note
+- Public health research and epidemiology
+- Biostatistics and statistical analysis
+- Data cleaning, validation, and visualisation
+- Reproducible research using R
+- Healthcare quality and evidence-informed decision-making
 
-The dataset is synthetic and created for demonstration purposes only. The findings do not represent real student records or real-world outcomes. This demonstration does not contain the original capstone dataset or report.
+## Featured Project
 
-## View the Report
+### R Data Analysis Portfolio Demonstration
 
-- [View the rendered HTML report](https://onyinyerowland.github.io/research-data-analysis-portfolio/r-analysis-portfolio-demo--1-.html)
-- [View the R Markdown source file](https://github.com/Onyinyerowland/research-data-analysis-portfolio/blob/main/capstone-research/r-analysis-portfolio-demo.Rmd)
+A reproducible R analysis workflow using a synthetic dataset to demonstrate data preparation, validation, statistical testing, visualisation, and reporting.
 
+**Skills demonstrated:** R programming, data cleaning, descriptive statistics, Welch's t-test, chi-square testing, correlation analysis, effect sizes, and R Markdown reporting.
 
-## Sample Visualisation
+- [View the HTML Report](r-analysis-portfolio-demo--1-.html)
+- [View the R Markdown Source Code](capstone-research/r-analysis-portfolio-demo.Rmd)
+- [View the Project README and Chart](capstone-research/README-r-analysis-portfolio-demo.md)
 
-The chart below is generated from synthetic data and is included to demonstrate data visualisation in R.
+**Data transparency:** This is a demonstration project using synthetic data. It does not report findings from real participants or an actual study.
 
-![R analysis chart](https://github.com/Onyinyerowland/research-data-analysis-portfolio/raw/main/capstone-research/r-analysis-chart.png.png)
+## Professional Development Goals
 
+I am interested in opportunities to contribute to public health research, epidemiology, health data analysis, and evidence-informed healthcare improvement while continuing to develop my technical and research skills.
 
-## Analysis Workflow
+## Connect
 
-The project demonstrates:
+- [GitHub Profile](https://github.com/Onyinyerowland)
+- [LinkedIn](https://www.linkedin.com/)
 
-1. Data creation, inspection, cleaning, and merging
-2. Validation checks for unique identifiers and missing values
-3. Descriptive statistics and grouped summaries
-4. Data visualisation using `ggplot2`
-5. Welch's t-test and Cohen's d effect size
-6. Chi-square test of association
-7. Spearman correlation analysis
-8. Reproducible reporting with R Markdown
-
-## Tools and Packages
-
-- R and RStudio
-- `tidyverse`
-- `janitor`
-- `effectsize`
-- `rmarkdown`
-
-## How to Reproduce the Analysis
-
-1. Download the `.Rmd` source file.
-2. Open it in RStudio.
-3. Install any missing packages listed above.
-4. Click **Knit** to generate the HTML report.
-
-## Skills Demonstrated
-
-- Data cleaning and preparation
-- Data merging and validation
-- Descriptive and inferential statistics
-- Statistical interpretation and effect sizes
-- Data visualisation
-- Reproducible research workflows
-
----
-
-*This is a portfolio demonstration using synthetic data. It is intended to showcase analytical methods and reproducible coding practices, not to report findings from an actual study.*
