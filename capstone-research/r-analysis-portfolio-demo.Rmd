@@ -15,7 +15,6 @@ This is a portfolio demonstration of an R analysis workflow. It uses **fully syn
 library(tidyverse)
 library(janitor)
 library(effectsize)
-library(car)
 
 set.seed(2026)
 theme_set(theme_minimal(base_size = 12))
