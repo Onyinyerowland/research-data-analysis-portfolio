@@ -3,7 +3,7 @@
 
 The chart below was generated from synthetic data to demonstrate data visualisation in R.
 
-![R analysis chart](r-analysis-chart.png)
+![R analysis chart](r-analysis-chart.png.png)
 
 ---
 
