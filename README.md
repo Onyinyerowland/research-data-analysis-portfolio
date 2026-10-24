@@ -15,6 +15,14 @@ The dataset is synthetic and created for demonstration purposes only. The findin
 - [View the rendered HTML report](https://onyinyerowland.github.io/research-data-analysis-portfolio/r-analysis-portfolio-demo--1-.html)
 - [View the R Markdown source file](https://github.com/Onyinyerowland/research-data-analysis-portfolio/blob/main/capstone-research/r-analysis-portfolio-demo.Rmd)
 
+
+## Sample Visualisation
+
+The chart below is generated from synthetic data and is included to demonstrate data visualisation in R.
+
+![R analysis chart](r-analysis-chart.png)
+
+
 ## Analysis Workflow
 
 The project demonstrates:
