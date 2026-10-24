@@ -3,7 +3,7 @@
 
 The chart below was generated from synthetic data to demonstrate data visualisation in R.
 
-![R analysis chart](https://onyinyerowland.github.io/research-data-analysis-portfolio/capstone-research/r-analysis-chart.png.png).
+![R analysis chart](https://github.com/Onyinyerowland/research-data-analysis-portfolio/raw/main/capstone-research/r-analysis-chart.png.png)
 
 
 ---
